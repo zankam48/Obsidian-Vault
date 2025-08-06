@@ -13,43 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 1/1. Linux Installation.md",
+                "file": "Deployment Task/3. Redo in Raspi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linux Installation"
+              "title": "3. Redo in Raspi"
             }
           },
           {
-            "id": "d89407718fe511ce",
+            "id": "aee7c0e5f52fb435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 1/2. VM Debian 12 Installation.md",
+                "file": "Ways to make connection to Raspi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. VM Debian 12 Installation"
+              "title": "Ways to make connection to Raspi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "457dd4898f5102cf",
+        "id": "c0004744a41e8e42",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4742cec120e52e",
+            "id": "edf0b7e0d01a548a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "e9809fe3bd21735d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RaspiConnections.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RaspiConnections.excalidraw"
             }
           }
         ]
@@ -181,26 +192,50 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "2760d0d4211c8b1b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d89407718fe511ce",
+  "active": "edf0b7e0d01a548a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-06 14.13.27.excalidraw.md",
+    "Deployment Task/3. Redo in Raspi.md",
+    "Ways to make connection to Raspi.md",
+    "Excalidraw/RaspiConnections.excalidraw.md",
+    "Excalidraw",
+    "Draft & Dump.md",
+    "Unix Filesystem.md",
+    "SSH.md",
+    "Pasted image 20250806140205.png",
+    "Deployment Task/2. VM Debian 12 Installation.md",
+    "Deployment Task/1. Linux Installation.md",
+    "Welcome.md",
     "Task 1/1. Linux Installation.md",
     "Task 1/2. VM Debian 12 Installation.md",
     "Screenshot From 2025-08-05 11-35-38.png",
@@ -213,9 +248,6 @@
     "Task 1/Screenshot From 2025-08-05 13-49-54.png",
     "Task 1/Screenshot From 2025-08-05 13-24-05.png",
     "Task 1/Screenshot From 2025-08-05 13-18-37.png",
-    "Task 1/Screenshot From 2025-08-05 13-08-50.png",
-    "sd card.md",
-    "Welcome.md",
     "Task 1"
   ]
 }
